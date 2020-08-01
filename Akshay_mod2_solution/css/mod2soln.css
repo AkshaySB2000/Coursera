@@ -11,6 +11,7 @@ h2{
 	right: 100px;
 	margin-bottom: 5px;
 	font-family: Calibri;
+	border: 1px solid black;
 }
 p{
 	border: 1px solid black;
