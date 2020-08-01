@@ -15,6 +15,7 @@ h1{
 	height: 30px;
 	width: 100px;
 	font-family: Calibri;
+	text-align: center;
 	background-color: lightgreen;
 	border: 1px solid black;
 }
