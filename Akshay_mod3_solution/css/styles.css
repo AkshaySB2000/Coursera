@@ -45,7 +45,7 @@ body {
   background-color: #228c22;
 }
 
-.navbar-header button.navbar-toggle{
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid yellow;
 }
 }
